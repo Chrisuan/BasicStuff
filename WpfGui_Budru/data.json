@@ -1,0 +1,19 @@
+{
+	"Products": [{
+		
+			"productId": 1,
+			"productName": "Produkt1",
+			"available": false
+		},
+		{
+			"productId": 2,
+			"productName": "Produkt2",
+			"available": true
+		},
+		{
+			"productId": 3,
+			"productName": "Produkt3",
+			"available": true
+		}
+	]
+}
